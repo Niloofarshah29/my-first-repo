@@ -5,7 +5,7 @@ print("Hello, GitHub! 🚀")
 
 
 # ===== README.md =====
-# My First GitHub Project
+# My First GitHub Projec
 
 This is my first project on GitHub 🎉  
 It contains a simple Python script that prints a welcome message.
