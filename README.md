@@ -1,5 +1,5 @@
 # my-first-repo
-just testing my github
+just testing my githu
 # ===== main.py =====
 print("Hello, GitHub! 🚀")
 
