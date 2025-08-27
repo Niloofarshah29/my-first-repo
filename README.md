@@ -12,5 +12,5 @@ It contains a simple Python script that prints a welcome message.
 
 ## Run
 To run the project, use:
-```bash
+```bas
 python main.py
